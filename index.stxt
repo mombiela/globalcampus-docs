@@ -1,4 +1,4 @@
-Document (globalcampus.site/namespace.stxt): Documentación técnica
+Document (globalcampus.site/namespace.stxt): Guía para el impaciente
 
 	Title: GlobalCampus: Documentos
 	
@@ -9,13 +9,13 @@ Document (globalcampus.site/namespace.stxt): Documentación técnica
 		Link: (stxt/) STxT Tutorial
 		
 	Content:
-		fsdfdsa
-		fas
-		fas
-		fsa
+		La forma más rápida de empezar es clonar el repositorio dónde está esta documentación
+		en github y... ¡empezar a hacer cambios!
 		
+		Tenéis que apuntar a una url de la forma:
 		
+		`https://globalcampus.site/#github/[nombre_principal]/[nombre_proyecto]/` 
 		
-	
-	
-	
+		Ya está :-)
+
+	Assert: Quizá sea ésta la guía más rápida		
