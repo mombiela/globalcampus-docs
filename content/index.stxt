@@ -2,6 +2,8 @@ Index(globalcampus.site/namespace.stxt): Creación de contenido
 
 	Title: GlobalCampus: Creación de contenido
 	
+	Section:
+		Link: (index) Índice
 	Section: Páginas
     	Link: (page_doc) Documentos
     	Link: (page_index) Índices
