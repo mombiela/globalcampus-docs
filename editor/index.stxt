@@ -1,7 +1,7 @@
 Document (globalcampus.site/namespace.stxt): Editor
 
 	Menu:
-		Link: (#../index) Documentación técnica
+		Link: (#github/mombiela/globalcampus-docs/) Documentación técnica
 		
 	Content:
 		Editor......

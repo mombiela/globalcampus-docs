@@ -1,6 +1,6 @@
 Document(globalcampus.site/namespace.stxt): STXT: Tutorial Exprés
 	
 	Menu:
-		Link: (#../index) Documentación técnica
+		Link: (#github/mombiela/globalcampus-docs/) Documentación técnica
 		
 	Content: STXT,...
