@@ -3,7 +3,7 @@ Document (globalcampus.site/namespace.stxt): Guía para el impaciente
 	Title: GlobalCampus: Documentación
 	
 	Menu:
-		Link: (/#index) GlobalCampus.site 
+	# Link: (/#index) GlobalCampus.site 
 		Link: (content/) Creación de Contenidos 
 		Link: (stxt/) STxT Tutorial
 		Link: (examples/) Ejemplos
