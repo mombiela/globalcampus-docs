@@ -1,4 +1,6 @@
-Index(globalcampus.site/namespace.stxt): STXT Un lenguaje para la web
+Index(globalcampus.site/namespace.stxt):
+	
+	Title: GlobalCampus: Ejemplos
 	
 	Menu:
 		Link: (#github/mombiela/globalcampus-docs/) Documentación técnica
