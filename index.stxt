@@ -3,7 +3,6 @@ Document (globalcampus.site/namespace.stxt): Guía para el impaciente
 	Title: GlobalCampus: Documentación
 	
 	Menu:
-	# Link: (/#index) GlobalCampus.site 
 		Link: (content/) Creación de Contenidos 
 		Link: (#github/mombiela/stxt-book/es/tutorial) STxT Tutorial
 		Link: (examples/) Ejemplos
