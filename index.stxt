@@ -1,11 +1,10 @@
-Document (globalcampus.site/namespace.stxt): Guía para el impaciente
+Document (globalcampus.site/namespace.stxt):
 
 	Title: GlobalCampus: Documentación
 	
 	Menu:
-		Link: (content/) Creación de Contenidos 
+		Link: (content/) Contenidos 
 		Link: (examples/) Ejemplos
-		Link: (editor/) Editor
 		
 	Content:
 		La forma más rápida de empezar es clonar [el repositorio dónde está esta documentación](https://github.com/mombiela/globalcampus-docs)

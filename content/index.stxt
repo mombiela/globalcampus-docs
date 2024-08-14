@@ -10,6 +10,7 @@ Index(globalcampus.site/namespace.stxt): Creación de contenido
     Section: URL's
 	    Link: (urls) URL's y cabeceras
     	Link: (github) URL's de github
+    	Link: (editor) Editor local
     	
 	Menu:
 		Link: (#github/mombiela/globalcampus-docs/) Documentación técnica
