@@ -1,24 +1,22 @@
-Document (globalcampus.site/namespace.stxt): Guía para el impaciente
+Index(globalcampus.site/namespace.stxt): Creación de contenido
 
-	Title: GlobalCampus: Documentación
+	Title: GlobalCampus: Creación de contenido
 	
+	Section:
+		Link: (index) Índice
+		Link: (fast_guide) Guía Rápida
+		
+	Section: Páginas
+    	Link: (page_doc) Documentos
+    	Link: (page_index) Índices
+    	
+    Section: URL's
+	    Link: (urls) URL's y cabeceras
+    	Link: (github) URL's de github
+    	Link: (editor) Editor
+    	
 	Menu:
-	# Link: (/#index) GlobalCampus.site 
-		Link: (content/) Creación de Contenidos 
-		Link: (#github/mombiela/stxt-book/es/tutorial) STxT Tutorial
+		Link: (index) Documentación técnica
 		Link: (examples/) Ejemplos
-		Link: (editor/) Editor
-		
-	Content:
-		La forma más rápida de empezar es clonar [el repositorio dónde está esta documentación](https://github.com/mombiela/globalcampus-docs)
-		en github y... ¡empezar a hacer cambios en el nuevo!
-		
-		Tenéis que apuntar a una url de la siguiente forma:
-		
-		`https://globalcampus.site/#github/[nombre_principal]/[nombre_proyecto]/` 
-		
-		Ya está :-)
-		
-		¡Ah! Y no dejéis de probar el editor. A veces los cambios en github tardan minutos en estar visibles y así podéis ir avanzando.
-
-	Assert: Quizá sea ésta la guía más rápida que se haya hecho para crear una web :-D
+  
+    	
