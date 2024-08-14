@@ -4,7 +4,6 @@ Document (globalcampus.site/namespace.stxt): Guía para el impaciente
 	
 	Menu:
 		Link: (content/) Creación de Contenidos 
-		Link: (#github/mombiela/stxt-book/es/tutorial) STxT Tutorial
 		Link: (examples/) Ejemplos
 		Link: (editor/) Editor
 		
