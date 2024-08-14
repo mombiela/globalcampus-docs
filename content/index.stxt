@@ -5,8 +5,6 @@ Index(globalcampus.site/namespace.stxt):
 	Menu:
 		Link: (#github/mombiela/globalcampus-docs/) Documentación
 		
-	Section:
-		Link: (index) Índice
 	Section: Páginas
     	Link: (page_doc) Documentos
     	Link: (page_index) Índices

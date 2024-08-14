@@ -6,13 +6,11 @@ Index(globalcampus.site/namespace.stxt):
 		Link: (#github/mombiela/globalcampus-docs/) Documentación
 		
 	Section: Ejemplos páginas básicas
-		Link: (base_doc) Documento
-		Link: (base_index) Índice  
+		Link: (base_doc) Página tipo Documento
+		Link: (base_index) Página tipo Índice  
 		
 	Section: Otros ejemplos
 		Link: (wiki) Texto wiki 
 		Link: (code) Texto con código
 		Link: (plantuml) Texto con plantuml
 		Link: (math) Texto con math
-		
-		
