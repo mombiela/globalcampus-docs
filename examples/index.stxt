@@ -3,7 +3,7 @@ Index(globalcampus.site/namespace.stxt):
 	Title: GlobalCampus: Ejemplos
 	
 	Menu:
-		Link: (#github/mombiela/globalcampus-docs/) Documentación técnica
+		Link: (#github/mombiela/globalcampus-docs/) Documentación
 		
 	Section: Ejemplos páginas básicas
 		Link: (base_doc) Documento
