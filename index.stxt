@@ -5,7 +5,7 @@ Document (globalcampus.site/namespace.stxt): Guía para el impaciente
 	Menu:
 	# Link: (/#index) GlobalCampus.site 
 		Link: (content/) Creación de Contenidos 
-		Link: (stxt/) STxT Tutorial
+		Link: (#github/mombiela/stxt-book/es/tutorial) STxT Tutorial
 		Link: (examples/) Ejemplos
 		Link: (editor/) Editor
 		
@@ -21,4 +21,4 @@ Document (globalcampus.site/namespace.stxt): Guía para el impaciente
 		
 		¡Ah! Y no dejéis de probar el editor. A veces los cambios en github tardan minutos en estar visibles y así podéis ir avanzando.
 
-	Assert: Quizá sea ésta la guía más rápida que se haya hecho para crear una web :-D	
+	Assert: Quizá sea ésta la guía más rápida que se haya hecho para crear una web :-D
