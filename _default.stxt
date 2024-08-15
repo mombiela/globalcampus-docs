@@ -1,0 +1,8 @@
+Default (globalcampus.site/namespace.stxt):
+
+	Title: GlobalCampus: Documentación
+	
+	Menu Left:
+		Link: (content/) Contenidos 
+		Link: (examples/) Ejemplos
+		
