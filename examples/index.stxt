@@ -1,12 +1,16 @@
 Index(globalcampus.site/namespace.stxt):
 
+	Header: Ejemplos páginas básicas
+	
 	Content:
-		Section: Ejemplos páginas básicas
-			Link: (base_doc) Página tipo Documento
-			Link: (base_index) Página tipo Índice  
+		
+		Link: (base_doc) Página tipo Documento
+		Link: (base_index) Página tipo Índice  
 			
-		Section: Otros ejemplos
-			Link: (wiki) Texto wiki 
-			Link: (code) Texto con código
-			Link: (plantuml) Texto con plantuml
-			Link: (math) Texto con math
+	Hedader: Otros ejemplos
+	
+	Content:
+		Link: (wiki) Texto wiki 
+		Link: (code) Texto con código
+		Link: (plantuml) Texto con plantuml
+		Link: (math) Texto con math
