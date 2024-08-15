@@ -4,13 +4,13 @@ Document(globalcampus.site/namespace.stxt):
 	
 	Content:
 		
-		Link: [Página tipo Documento](base_doc)
-		Link: [Página tipo Índice](base_index)  
+		* [Página tipo Documento](base_doc)
+		* [Página tipo Índice](base_index)  
 			
-	Hedader: Otros ejemplos
+	Header: Otros ejemplos
 	
 	Content:
-		Link: [Texto wiki](wiki)  
-		Link: [Texto con código](code) 
-		Link: [Texto con plantuml](plantuml) 
-		Link: [Texto con math](math) 
+		* [Texto wiki](wiki)  
+		* [Texto con código](code) 
+		* [Texto con plantuml](plantuml) 
+		* [Texto con math](math) 

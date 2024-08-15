@@ -2,11 +2,11 @@ Document(globalcampus.site/namespace.stxt):
 
 	Header: Páginas
 	Content:
-    	Link: [Documentos](page_doc)
-    	Link: [Índices](page_index)
+    	* [Documentos](page_doc)
+    	* [Índices](page_index)
 	Header: URL's
 	Content:
-	    Link: [URL's y cabeceras](urls)
-    	Link: [URL's de github](github)
-    	Link: [Editor local](editor) 
+	    * [URL's y cabeceras](urls)
+    	* [URL's de github](github)
+    	* [Editor local](editor) 
  
