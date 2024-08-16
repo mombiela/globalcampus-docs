@@ -3,6 +3,6 @@ Default (globalcampus.site/namespace.stxt):
 	Title: GlobalCampus: Documentación
 	
 	Left Menu:
-		Link: (content/) Contenidos 
-		Link: (examples/) Ejemplos
+		Link: Contenidos (content/) 
+		Link: Ejemplos (examples/) 
 		
