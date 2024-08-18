@@ -1,10 +1,10 @@
-Document (globalcampus.site/namespace.stxt): Demo aplicación
+Document (globalcampus.site/namespace.stxt): Página tipo Default
 
 	Navigation:
 		Previous: Anterior (base_doc)
 		Next: Siguiente (wiki)
 		
-	Header: Un documento default (completo)
+	Header: Un documento completo
 	
 	Code:
 		Default (globalcampus.site/namespace.stxt):
@@ -15,5 +15,5 @@ Document (globalcampus.site/namespace.stxt): Demo aplicación
 			Left Menu: [Guía Rápida](../index) [Contenidos](../content/) **Ejemplos**
 			Right Menu: [Objectivos](#objective) | [Contactar](#contact) | [Condiciones](#conditions)
 			Display src: true
-			Display edit: true
+			Display edit: false
 		

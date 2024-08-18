@@ -8,7 +8,7 @@ Document(globalcampus.site/namespace.stxt):
 	Content:
 		
 		* [Página tipo Documento](base_doc)
-		* [Página tipo Índice](base_default)  
+		* [Página tipo Default](base_default)  
 			
 	Header: Otros ejemplos
 	
