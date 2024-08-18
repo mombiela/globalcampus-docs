@@ -15,9 +15,9 @@ Document (globalcampus.site/namespace.stxt): Demo aplicación
 	Header: Resultado
 	
 	Plantuml:
-	@startuml
-		Bob -> Alice
-		Alice -> Bob
-    @enduml
+		@startuml
+			Bob -> Alice
+			Alice -> Bob
+	    @enduml
 		
 	
