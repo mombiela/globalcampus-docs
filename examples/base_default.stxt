@@ -1,5 +1,9 @@
 Document (globalcampus.site/namespace.stxt): Demo aplicación
 
+	Navigation:
+		Previous: Anterior (base_doc)
+		Next: Siguiente (wiki)
+		
 	Header:	Cabecera primer nivel
 	Subheader:	Cabecera segundo nivel
 	

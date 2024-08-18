@@ -1,11 +1,14 @@
 Document(globalcampus.site/namespace.stxt):
+	Navigation:
+		Previous: Anterior (../content/editor)
+		Next: Siguiente (base_doc)
 
 	Header: Ejemplos páginas básicas
 	
 	Content:
 		
 		* [Página tipo Documento](base_doc)
-		* [Página tipo Índice](base_index)  
+		* [Página tipo Índice](base_default)  
 			
 	Header: Otros ejemplos
 	

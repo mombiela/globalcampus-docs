@@ -1,5 +1,8 @@
 Document (globalcampus.site/namespace.stxt):
 
+	Navigacion:
+		Next: Creación de Contenido (content/)
+		
 	Content:
 		La forma más rápida de empezar es clonar [el repositorio dónde está esta documentación](https://github.com/mombiela/globalcampus-docs)
 		en github y... ¡empezar a hacer cambios en el nuevo!
