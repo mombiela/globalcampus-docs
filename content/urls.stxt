@@ -46,8 +46,28 @@ Document (globalcampus.site/namespace.stxt): URL's y cabeceras
 	Content: 
 		Ésta es la estructura:
 		
-		`https://globalcampus.site/#nombre_servidor/ruta_fichero/...`
+	Assert: `https://globalcampus.site/#nombre_servidor/ruta_fichero/...`
 	
-
+	Content: 
+		En caso de que se indique un directorio, se mostrará la página `index.stxt` que esté en ese directorio 
+		
+		Ejemplos:
+		
+		* [https://globalcampus.site/#www.example.com/ruta/page](https://globalcampus.site/#www.example.com/ruta/page): 
+		  Ruta física `https://www.example.com/ruta/page.stxt`
+		* [https://globalcampus.site/#www.example.com/ruta/](https://globalcampus.site/#www.example.com/ruta/): 
+		  Ruta física `https://www.example.com/ruta/index.stxt`
+	
+	Header: Cabeceras http
+	
+	Content:
+		Para que la página funcione correctamente en globalcampus, se tiene que habilitar las cabeceras correspondientes
+		a `access-control-allow-origin` ya sea a `*` o `https://globalcampus.site`. Esto es para indicar que realmente
+		globalcampus.site puede ir a buscar esa página. 
+		
+		 
+	
+	
+	
 		
 		
