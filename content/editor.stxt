@@ -34,3 +34,11 @@ Document (globalcampus.site/namespace.stxt): Editor local
 	Assert: 
 		No olvidéis de hacer _reset local_ al finalizar la edición (¡y copiarla al lugar definitivo!)
 		o la próxima vez que editéis la página veréis una versión antigua.
+
+	Header: Visualización de icono
+	
+	Content: Es posible visualizar el icono de editor en la página si habilitamos en `_default.stxt`
+		la propiedad `Display edit` a `true`.
+		
+		
+		
