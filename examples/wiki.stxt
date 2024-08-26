@@ -1,51 +1,51 @@
-Document (globalcampus.site/namespace.stxt): Texto Wiki
+Document (globalcampus.site/namespace.stxt): Wiki Text
 	Navigation:
-		Previous: Anterior (base_default)
-		Next: Siguiente (code)
+		Previous: Previous (base_default)
+		Next: Next (code)
 
-	Header:	Código de texto wiki
+	Header:	Wiki Text Code
 
 	Code:
 		Content:
-			Esto es un texto normal en formato wiki.
+			This is normal text in wiki format.
 			
-			Hola mundo, otra tabla\
-			Y otra tabla.
+			Hello world, another table\
+			And another table.
 			
-			**Esto es negrita**	y _Esto es cursiva_\
-			y `Esto es un código`. Se puede hacer un salto de línea seguido:\
-			Ahora un ejemplo de una lista (y un link):
+			**This is bold** and _This is italic_\
+			and `This is code`. You can make a line break:\
+			Now an example of a list (and a link):
 			
-			* Elem 1
-			* Elem 2
-			* Elem 3
+			* Item 1
+			* Item 2
+			* Item 3
 			* [Semantic Text Web](#github/mombiela/stxt-book/es/home)
 
-		    | Columna 1| Columna 2 |
-		    | ---------| ----------|
-		    | Valor 1  | Valor 2   |
-		    | Valor 3  | Valor 4   |
-		    | Valor 5  | Valor 6 largo, largo,... |
+		    | Column 1 | Column 2 |
+		    | -------- | -------- |
+		    | Value 1  | Value 2  |
+		    | Value 3  | Value 4  |
+		    | Value 5  | Value 6 long, long,... |
 
-	Header: Resultado
+	Header: Output
 	
 	Content:
-		Esto es un texto normal en formato wiki.
+		This is normal text in wiki format.
 		
-		Hola mundo, otra tabla\
-		Y otra tabla.
+		Hello world, another table\
+		And another table.
 		
-		**Esto es negrita**	y _Esto es cursiva_\
-		y `Esto es un código`. Se puede hacer un salto de línea seguido:\
-		Ahora un ejemplo de una lista (y un link):
+		**This is bold** and _This is italic_\
+		and `This is code`. You can make a line break:\
+		Now an example of a list (and a link):
 		
-		* Elem 1
-		* Elem 2
-		* Elem 3
+		* Item 1
+		* Item 2
+		* Item 3
 		* [Semantic Text Web](#github/mombiela/stxt-book/es/home)
 
-	    | Columna 1| Columna 2 |
-	    | ---------| ----------|
-	    | Valor 1  | Valor 2   |
-	    | Valor 3  | Valor 4   |
-	    | Valor 5  | Valor 6 largo, largo,... |
+	    | Column 1 | Column 2 |
+	    | -------- | -------- |
+	    | Value 1  | Value 2  |
+	    | Value 3  | Value 4  |
+	    | Value 5  | Value 6 long, long,... |

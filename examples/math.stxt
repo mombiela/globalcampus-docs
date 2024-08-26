@@ -1,9 +1,9 @@
-Document (globalcampus.site/namespace.stxt): Demo aplicación
+Document (globalcampus.site/namespace.stxt): Demo Application
 	Navigation:
-		Previous: Anterior (plantuml)
-		Next: Inicio (#index)
+		Previous: Previous (plantuml)
+		Next: Home (#index)
 
-	Header:	Ejemplo de math
+	Header:	Math Example
 
 	Code:
 		Math:
@@ -13,14 +13,14 @@ Document (globalcampus.site/namespace.stxt): Demo aplicación
 		Math:
 			When `a != 0`, there are two solutions to `ax^2 + bx + c = 0` and they are
 			`x = (-b +- sqrt(b^2-4ac))/(2a)`
-		Subheader: Other examples
+		Subheader: Other Examples
 	  	Math: This is a LaTeX inline equation: $E=mc^2$
 	  	Math: This is an AsciiMath inline equation: `E=mc^2`
 	  	Math: This is an AsciiMath inline equation: `x = (-b +- sqrt(b^2-4ac))/(2a)`
 	  	Math: This is a LaTeX displayed equation: $$E=mc^2$$
-	  	Math: This is an LaTeX displayed equation: \[E=mc^2\]
+	  	Math: This is a LaTeX displayed equation: \[E=mc^2\]
 
-	Header: Resultado
+	Header: Output
 	
 	Math:
 		When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
@@ -29,10 +29,9 @@ Document (globalcampus.site/namespace.stxt): Demo aplicación
 	Math:
 		When `a != 0`, there are two solutions to `ax^2 + bx + c = 0` and they are
 		`x = (-b +- sqrt(b^2-4ac))/(2a)`
-	Subheader: Other examples
+	Subheader: Other Examples
   	Math: This is a LaTeX inline equation: $E=mc^2$
   	Math: This is an AsciiMath inline equation: `E=mc^2`
   	Math: This is an AsciiMath inline equation: `x = (-b +- sqrt(b^2-4ac))/(2a)`
   	Math: This is a LaTeX displayed equation: $$E=mc^2$$
-  	Math: This is an LaTeX displayed equation: \[E=mc^2\]
-		
+  	Math: This is a LaTeX displayed equation: \[E=mc^2\]

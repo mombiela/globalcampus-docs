@@ -1,43 +1,43 @@
-Document (globalcampus.site/namespace.stxt): Demo documento
+Document (globalcampus.site/namespace.stxt): Demo Document
 
 	Navigation:
-		Previous: Anterior (index)
-		Next: Siguiente (wiki)
+		Previous: Previous (index)
+		Next: Next (wiki)
 		
-	Header: Un documento básico
+	Header: A Basic Document
 	
 	Code:
-		Document (globalcampus.site/namespace.stxt): Título del documento
+		Document (globalcampus.site/namespace.stxt): Document Title
 	
-			Header:	Cabecera primer nivel
-			Subheader:	Cabecera segundo nivel
+			Header:	First-level Header
+			Subheader:	Second-level Header
 			
 			Content:
-				Esto es un texto normal de contenido.
+				This is a normal content text.
 				
-	Header: Un documento completo
+	Header: A Complete Document
 	
 	Code:
-		Document (globalcampus.site/namespace.stxt): Título del documento
+		Document (globalcampus.site/namespace.stxt): Document Title
 			Default (globalcampus.site/namespace.stxt):
-				Title: Título General
+				Title: General Title
 				Subtitle: [GlobalCampus.site](/) & [SemanticText](https://semantictext.info)
-				Footer: &copy; 2014 - Esta obra está bajo una [Licencia MIT](https://raw.githubusercontent.com/mombiela/semantic-web-builder/master/LICENSE)
-				Left Menu: **Guía Rápida** [Contenidos](content/) [Ejemplos](examples/) 
-				Right Menu: [Objectivos](#objective) | [Contactar](#contact) | [Condiciones](#conditions) 
+				Footer: &copy; 2014 - This work is licensed under a [MIT License](https://raw.githubusercontent.com/mombiela/semantic-web-builder/master/LICENSE)
+				Left Menu: **Quick Guide** [Contents](content/) [Examples](examples/) 
+				Right Menu: [Objectives](#objective) | [Contact](#contact) | [Terms](#conditions) 
 	
-			Header:	Cabecera primer nivel
-			Subheader:	Cabecera segundo nivel
+			Header:	First-level Header
+			Subheader:	Second-level Header
 			
 			Content:
-				Esto es un texto normal de contenido.
+				This is a normal content text.
 	
-			Assert: Esto es un assert
-			Alert: Esto es un alert
+			Assert: This is an assert
+			Alert: This is an alert
 			Code:
-				<h1>Esto es un código html</h1>
-				<h2>Esto es un código html</h2>
-				<p>Esto es un código html</p>
+				<h1>This is HTML code</h1>
+				<h2>This is HTML code</h2>
+				<p>This is HTML code</p>
 			Plantuml:
 				@startuml
 					Bob -> Alice
@@ -45,26 +45,23 @@ Document (globalcampus.site/namespace.stxt): Demo documento
 			    @enduml
 		  	Math: This is a LaTeX inline equation: $E=mc^2$
 
-	Header: Resultado del documento
+	Header: Document Output
 	
-	Header:	Cabecera primer nivel
-	Subheader:	Cabecera segundo nivel
+	Header:	First-level Header
+	Subheader:	Second-level Header
 	
 	Content:
-		Esto es un texto normal de contenido.
+		This is a normal content text.
 
-	Assert: Esto es un assert
-	Alert: Esto es un alert
+	Assert: This is an assert
+	Alert: This is an alert
 	Code:
-		<h1>Esto es un código html</h1>
-		<h2>Esto es un código html</h2>
-			***<p>Esto es un código html</p>***
+		<h1>This is HTML code</h1>
+		<h2>This is HTML code</h2>
+			***<p>This is HTML code</p>***
 	Plantuml:
 		@startuml
 			Bob -> Alice
 			Alice -> Bob
 	    @enduml
   	Math: This is a LaTeX inline equation: $E=mc^2$
-	
-	
-	

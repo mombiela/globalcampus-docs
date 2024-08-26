@@ -1,19 +1,19 @@
-Document (globalcampus.site/namespace.stxt): Ejemplo de código
+Document (globalcampus.site/namespace.stxt): Code Example
 	Navigation:
-		Previous: Anterior (wiki)
-		Next: Siguiente (plantuml)
+		Previous: Previous (wiki)
+		Next: Next (plantuml)
 
-	Header:	Código
+	Header:	Code
 	
 	Code: 
 		Code:
-			<h1>Esto es un código html</h1>
-			<h2>Esto es un código html</h2>
-			***<p>Esto es un código html</p>***
+			<h1>This is HTML code</h1>
+			<h2>This is HTML code</h2>
+			***<p>This is HTML code</p>***
 
-	Header: Resultado
+	Header: Output
 		
 	Code:
-		<h1>Esto es un código html</h1>
-		<h2>Esto es un código html</h2>
-		***<p>Esto es un código html</p>***
+		<h1>This is HTML code</h1>
+		<h2>This is HTML code</h2>
+		***<p>This is HTML code</p>***

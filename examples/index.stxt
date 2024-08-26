@@ -1,19 +1,19 @@
 Document(globalcampus.site/namespace.stxt):
 	Navigation:
-		Previous: Contenidos (../content/editor)
-		Next: Siguiente (base_doc)
+		Previous: Contents (../content/editor)
+		Next: Next (base_doc)
 
-	Header: Ejemplos páginas básicas
+	Header: Basic Page Examples
 	
 	Content:
 		
-		* [Página tipo Documento](base_doc)
-		* [Página tipo Default](base_default)  
+		* [Document Page Type](base_doc)
+		* [Default Page Type](base_default)  
 			
-	Header: Otros ejemplos
+	Header: Other Examples
 	
 	Content:
-		* [Texto wiki](wiki)  
-		* [Texto con código](code) 
-		* [Texto con plantuml](plantuml) 
-		* [Texto con math](math) 
+		* [Wiki Text](wiki)  
+		* [Text with Code](code) 
+		* [Text with PlantUML](plantuml) 
+		* [Text with Math](math) 
