@@ -1,17 +1,17 @@
-Document (globalcampus.site/namespace.stxt): Contenido por defecto
+Document (globalcampus.site/namespace.stxt): Default Content
 	Navigation:
-		Previous: Anterior (page_doc)
-		Next: Siguiente (urls)
+		Previous: Previous (page_doc)
+		Next: Next (urls)
 
 	Content:
-		Los documentos tienen elementos comunes en las páginas, los
-		cuales se pueden definir sólo una vez y son compartidos
-		por todas las páginas que comparten ruta.
+		Documents have common elements on the pages, 
+		which can be defined only once and are shared 
+		by all pages that share the same path.
 		
-		Estos elementos se definen en una página llamada `_default.stxt`
-		que estará en la misma ruta que sus elementos.
+		These elements are defined in a page called `_default.stxt`
+		which will be in the same path as its elements.
 		
-	Header: Estructura del default
+	Header: Default Structure
 	
 	Code: 
 		Namespace: globalcampus.site/namespace.stxt
@@ -28,13 +28,13 @@ Document (globalcampus.site/namespace.stxt): Contenido por defecto
 				Display src: (?) BOOLEAN
 				Display edit: (?) BOOLEAN
 	
-	Header: Tipos de elementos comunes
+	Header: Types of Common Elements
 	
 	Content:
-		Estos son los elementos principales comunes que se pueden especificar:
+		These are the main common elements that can be specified:
 		
-		* **Title**: Título que aparece en la cabecera
-		* **Subtitle**: Subtítulo que aparece en la cabecera
-		* **Footer**: Pié de página
-		* **Left Menu**: Menú superior izquierdo
-		* **Right menu**: Menú superior derecho
+		* **Title**: Title that appears in the header
+		* **Subtitle**: Subtitle that appears in the header
+		* **Footer**: Footer
+		* **Left Menu**: Top left menu
+		* **Right menu**: Top right menu

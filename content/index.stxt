@@ -1,13 +1,13 @@
 Document(globalcampus.site/namespace.stxt):
 	Navigation:
-		Previous: Guía Rápida (../index)
-		Next: Siguiente (page_doc)
-	Header: Páginas
+		Previous: Quick Guide (../index)
+		Next: Next (page_doc)
+	Header: Pages
 	Content:
-    	* [Documentos](page_doc)
-    	* [Contenido común](page_default)
-	Header: URL's
+    	* [Documents](page_doc)
+    	* [Common Content](page_default)
+	Header: URLs
 	Content:
-	    * [URL's y cabeceras](urls)
-    	* [URL's de github](github)
-    	* [Editor local](editor)
+	    * [URLs and Headers](urls)
+    	* [GitHub URLs](github)
+    	* [Local Editor](editor)

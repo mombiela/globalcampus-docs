@@ -1,24 +1,24 @@
-Document (globalcampus.site/namespace.stxt): URL's de github
+Document (globalcampus.site/namespace.stxt): GitHub URLs
 	Navigation:
-		Previous: Anterior (urls)
-		Next: Siguiente (editor)
+		Previous: Previous (urls)
+		Next: Next (editor)
 
 	Content:
-		**Github** es uno de los mejores repositorios de código fuente
-		que existen, y hemos realizado una integración sencilla con él.
+		**GitHub** is one of the best source code repositories 
+		that exists, and we have made a simple integration with it.
 		
-		Así, si creamos un proyecto en github con ficheros .stxt que
-		tengan el namespace de globalcampus.site, estos podrán
-		ser mostrados directamente siguiendo la siguiente url:
+		So, if we create a project on GitHub with .stxt files that 
+		have the globalcampus.site namespace, they can be 
+		displayed directly using the following URL:
 		
-		`https://globalcampus.site/#github/[nombre_principal]/[nombre_proyecto]/`
+		`https://globalcampus.site/#github/[main_name]/[project_name]/`
 		
-		Por ejemplo, esta documentación está en:
+		For example, this documentation is located at:
 		
 	Assert: 
-		[Documentación técnica globalcampus](https://github.com/mombiela/globalcampus-docs) \
-		accesible por [https://globalcampus.site/#github/mombiela/globalcampus-docs/](https://globalcampus.site/#github/mombiela/globalcampus-docs/)
+		[GlobalCampus technical documentation](https://github.com/mombiela/globalcampus-docs) \
+		accessible via [https://globalcampus.site/#github/mombiela/globalcampus-docs/](https://globalcampus.site/#github/mombiela/globalcampus-docs/)
 	
 	Content: 
-		Una cosa muy sencilla que se puede hacer es clonar este repositorio a otro y apuntar a la url nueva:
-		Se podrá ver la documentación y hacer cambios para ir probando las posibilidades de stxt.
+		A very simple thing you can do is clone this repository to another one and point to the new URL:
+		You will be able to view the documentation and make changes to explore the possibilities of STxT.

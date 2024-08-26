@@ -1,20 +1,19 @@
-
 Document (globalcampus.site/namespace.stxt):
 
 	Navigation:
-		Previous: Inicio (#index)
-		Next: Creación de Contenido (content/)
+		Previous: Home (#index)
+		Next: Content Creation (content/)
 		
 	Content:
-		La forma más rápida de empezar es clonar [el repositorio dónde está esta documentación](https://github.com/mombiela/globalcampus-docs)
-		en github y... ¡empezar a hacer cambios en el nuevo!
+		The quickest way to get started is to clone [the repository where this documentation is located](https://github.com/mombiela/globalcampus-docs)
+		on GitHub and... start making changes to the new one!
 		
-		Tenéis que apuntar a una url de la siguiente forma:
+		You need to point to a URL in the following format:
 		
-		`https://globalcampus.site/#github/[nombre_principal]/[nombre_proyecto]/` 
+		`https://globalcampus.site/#github/[main_name]/[project_name]/` 
 		
-		Ya está :-)
+		That's it :-)
 		
-		¡Ah! Y no dejéis de probar el editor. A veces los cambios en github tardan minutos en estar visibles y así podéis ir avanzando.
-
-	Assert: Quizá sea ésta la guía más rápida que se haya hecho para crear una web :-D
+		Oh! And don't forget to try out the editor. Sometimes changes on GitHub take a few minutes to become visible, so you can keep moving forward.
+		
+	Assert: This might be the quickest guide ever made to create a website :-D

@@ -1,24 +1,24 @@
-Document (globalcampus.site/namespace.stxt): Documentos
+Document (globalcampus.site/namespace.stxt): Documents
 	Navigation:
-		Previous: Anterior (index)
-		Next: Siguiente (page_default)
+		Previous: Previous (index)
+		Next: Next (page_default)
 
 	Content:
-		Los documentos permiten insertar contenido. Son **las páginas**.
-		No hay limitación en lo que un documento puede contener, por lo que
-		se puede hacer casi cualquier contenido:
+		Documents allow you to insert content. They are **the pages**.
+		There is no limitation on what a document can contain, so 
+		almost any content can be created:
 		
-		* Página inicial
-		* Tema de una asignatura
-		* Capítulo de un libro
-		* Condiciones de uso
+		* Home page
+		* Subject topic
+		* Book chapter
+		* Terms of use
 		* ...
 		
-	Header: Estructura de un documento
+	Header: Document Structure
 	
 	Content: 
-		Un documento es un texto en [SemanticText](https://semantictext.info),
-		que sigue el siguiente namespace:
+		A document is a text in [SemanticText](https://semantictext.info),
+		that follows the following namespace:
 		
 	Code:
 		Namespace: globalcampus.site/namespace.stxt
@@ -53,16 +53,15 @@ Document (globalcampus.site/namespace.stxt): Documentos
 				Display src: (?) BOOLEAN
 				Display edit: (?) BOOLEAN
 				
-	Subheader: Tipos de elementos
+	Subheader: Types of Elements
 	
 	Content:
-		Lo mejor es que provéis los distintos tipos de elementos,
-		pero los principales son los siguientes:
+		The best way is to try out the different types of elements,
+		but the main ones are as follows:
 		
-		* **Content**: Contenido en formato _wiki_
-		* **Header**: Cabeceras de primer nivel
-		* **Subheader**: Cabeceras de segundo nivel
-		* **Code**: Código fuente
-		* **Assert**: Afirmaciones importantes
-		* **Alert**: Alertas importantes
-
+		* **Content**: Content in _wiki_ format
+		* **Header**: First-level headers
+		* **Subheader**: Second-level headers
+		* **Code**: Source code
+		* **Assert**: Important statements
+		* **Alert**: Important alerts

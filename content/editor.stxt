@@ -1,44 +1,41 @@
-Document (globalcampus.site/namespace.stxt): Editor local
+Document (globalcampus.site/namespace.stxt): Local Editor
 	Navigation:
-		Previous: Anterior (github)
-		Next: Ejemplos (../examples/)
+		Previous: Previous (github)
+		Next: Examples (../examples/)
 
 	Content:
-		Tenemos un editor de stxt... **¡sorpresa!**. Este editor está en una fase muy inicial,
-		pero puede usar si se quiere. 
+		We have an STxT editor... **surprise!**. This editor is in a very early stage,
+		but it can be used if desired. 
 		
-		Todas las páginas de globalcampus pueden verse con el editor, con sólo añadir `edit`
-		a la url:
+		All GlobalCampus pages can be viewed with the editor by simply adding `edit`
+		to the URL:
 		
 	Assert:
-		`https://globalcampus.site/edit#nombre_servidor/ruta_fichero/...`\
-		`https://globalcampus.site/edit#ruta_fichero/...`\
-		`https://globalcampus.site/edit#github/propietario/proyecto/...`\
+		`https://globalcampus.site/edit#server_name/file_path/...`\
+		`https://globalcampus.site/edit#file_path/...`\
+		`https://globalcampus.site/edit#github/owner/project/...`\
 
 	Content:
-		Por ejemplo, se puede editar la página de las condiciones de uso del portal mediante:
+		For example, you can edit the portal's terms of use page using:
 		
 		* [https://globalcampus.site/edit#conditions](https://globalcampus.site/edit#conditions)
 		
-	Header: Cambios en local
+	Header: Local Changes
 	
 	Content: 
-		Las modificaciones que hagamos **sólo** afectarán a nuestro **navegador local**
-		y **sólo mientras estemos en edición**. Para ello la pantalla mostrará un borde
-		especial y una pequeña pantalla de edición. 
+		Any modifications we make will **only** affect our **local browser**
+		and **only while we are in edit mode**. To indicate this, the screen will display a special border
+		and a small editing screen.
 		
-		Estamos en una fase inicial, por lo que este editor no es muy _responsive_ y
-		debería usarse en un ordenador. Más adelante quizá se mejore, pero de momento 
-		sólo lo tenemos como demo rápida.
+		We are in an early stage, so this editor is not very _responsive_ and
+		should be used on a computer. It might be improved later, but for now, 
+		we only have it as a quick demo.
 		
 	Assert: 
-		No olvidéis de hacer _reset local_ al finalizar la edición (¡y copiarla al lugar definitivo!)
-		o la próxima vez que editéis la página veréis una versión antigua.
+		Don't forget to perform a _local reset_ after finishing the edit (and copy it to the final location!)
+		or the next time you edit the page, you will see an outdated version.
 
-	Header: Visualización de icono
+	Header: Editor Icon Display
 	
-	Content: Es posible visualizar el icono de editor en la página si habilitamos en `_default.stxt`
-		la propiedad `Display edit` a `true`.
-		
-		
-		
+	Content: It is possible to display the editor icon on the page if you enable the `Display edit` 
+		property to `true` in `_default.stxt`.
