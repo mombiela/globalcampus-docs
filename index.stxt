@@ -1,8 +1,7 @@
 Document (globalcampus.site/namespace.stxt):
 
 	Navigation:
-		Previous: Home (#index)
-		#Next: Content Creation (content/)
+		Next: Content Creation (content/)
 		
 	Content:
 		The quickest way to get started is to clone [the repository where this documentation is located](https://github.com/mombiela/globalcampus-docs)
