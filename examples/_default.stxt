@@ -5,7 +5,7 @@ Default (globalcampus.site/namespace.stxt):
 	Footer: &copy; 2014 - This work is licensed under a [MIT License](https://raw.githubusercontent.com/mombiela/semantic-web-builder/master/LICENSE)
 	
 	Left Menu: [Quick Guide](../index) [Contents](../content/) **Examples**
-	Right Menu: [Objectives](#objective) | [Contact](#contact) | [Terms](#conditions) 
+	Right Menu: [Objectives](../objective) | [Terms](../conditions) 
 	Display src: true
 	Display edit: true
 		
