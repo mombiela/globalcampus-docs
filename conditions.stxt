@@ -1,4 +1,6 @@
 Document (globalcampus.site/namespace.stxt): Legal Terms of Use
+	Default:
+		Left Menu: [Quick Guide](index) [Contents](content/) [Examples](examples/) 
 	
 	Header: 1. Introduction
 	Content:
