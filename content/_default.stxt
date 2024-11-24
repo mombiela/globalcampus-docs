@@ -1,7 +1,7 @@
 Default (globalcampus.site/namespace.stxt):
 
 	Title: GlobalCampus: Content
-	Subtitle: Test portal of [SemanticText](https://semantictext.info)
+	Subtitle:_[Test portal of Semantic Text](https://semantictext.info)_
 	Footer: &copy; 2014 - This work is licensed under a [MIT License](https://raw.githubusercontent.com/mombiela/semantic-web-builder/master/LICENSE)
 	
 	Left Menu: [Quick Guide](../index) **Contents** [Examples](../examples/)
