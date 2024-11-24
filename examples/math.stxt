@@ -1,7 +1,7 @@
 Document (globalcampus.site/namespace.stxt): Demo Application
 	Navigation:
 		Previous: Previous (plantuml)
-		Next: Home (#index)
+		#Next: Home (#index)
 
 	Header:	Math Example
 
